@@ -1,0 +1,10 @@
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\bin\Debug\SpriteMapSplitter.exe.config
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\bin\Debug\SpriteMapSplitter.exe
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\bin\Debug\SpriteMapSplitter.pdb
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.csprojAssemblyReference.cache
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.MainForm.resources
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.Properties.Resources.resources
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.csproj.GenerateResource.cache
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.exe
+C:\Users\Tom\Documents\Development\CS\SpriteMapSplitter\SpriteMapSplitter\obj\Debug\SpriteMapSplitter.pdb
